@@ -3,3 +3,6 @@ arr = []
 for i in range(n):
     arr.append(int(input("Enter the element of array :")))
 print(arr)
+
+
+#test
